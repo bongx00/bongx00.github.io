@@ -1,0 +1,13 @@
+{
+  "name": "Say Hi! or whatever o.0",
+  "email": "gblog.whole562@passinbox.com",
+  "description": "Passing by and share your ideas, comments, and original thoughts.",
+  "image": {
+    "src": "../../../content/images/tesseract.jpg",
+    "alt": "Bong's Logo"
+  },
+  "socialProfiles": {
+    "from": ["Twitter", "Github", "Mail"],
+    "showIcons": true
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "intro": "Hello Bastard!",
+  "heroPhoto": {
+    "src": "../../../content/images/tesseract.jpg",
+    "alt": "Bong's logo"
+  },
+  "image": {
+    "src": "../../images/high-voltage.png",
+    "alt": "High voltage thunder"
+  },
+  "title": "I'm Bong",
+  "subtitle": {
+    "prefix": "I'm keen on ",
+    "highlight": "hacking",
+    "suffix": "."
+  },
+  "description": "I will drop here my notes, ideas, questions, and original thoughts.",
+  "socialProfiles": {
+    "from": ["Twitter", "Github", "Mail"],
+    "showIcons": false
+  }
+}

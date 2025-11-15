@@ -1,0 +1,31 @@
+{
+  "siteMetadata": {
+    "language": "en",
+    "siteUrl": "https://bongx00.github.io/",
+    "title": "Bong's Blog",
+    "titleTemplate": "%s · Bong's Blog",
+    "description": "Hacking notes, ideas, questions, and original thoughts.",
+    "author": "Bong",
+    "avatar": "../content/images/tesseract.jpg",
+    "bio": "At the sideways of thinking, creativity breaches the walls of truth.",
+    "social": {
+      "medium": "https://x.com/dong_bros",
+      "twitter": "https://x.com/dong_bros",
+      "github": "https://github.com/bongx00",
+      "mail": "mailto:gblog.whole562@passinbox.com"
+    }
+  },
+  "siteConfiguration": {
+    "logo": {},
+    "navigation": {
+      "header": [],
+      "ctaButton": {},
+      "footer": []
+    },
+    "featureToggles": {
+      "useDarkModeAsDefault": true,
+      "useDarkModeBasedOnUsersPreference": true,
+      "useCookieBar": false
+    }
+  }
+}
