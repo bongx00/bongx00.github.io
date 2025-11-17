@@ -17,6 +17,6 @@
   "description": "I will drop here my notes, ideas, questions, and original thoughts.",
   "socialProfiles": {
     "from": ["Twitter", "Github", "Mail"],
-    "showIcons": false
+    "showIcons": true
   }
 }

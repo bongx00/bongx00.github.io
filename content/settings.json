@@ -16,11 +16,23 @@
     }
   },
   "siteConfiguration": {
-    "logo": {},
+    "logo": { "text": "Bong's Blog" },
     "navigation": {
-      "header": [],
-      "ctaButton": {},
-      "footer": []
+      "header": [
+        { "label": "Blog", "url": "/blog" },
+        { "label": "Contact", "url": "#contact" },
+        { "label": "Articles", "url": "#articles" }
+      ],
+      "ctaButton": {
+        "openNewTab": false,
+        "label": "fOCkOOf!",
+        "url": "https://google.com"
+      },
+      "footer": [
+        { "label": "Blog", "url": "/blog" },
+        { "label": "Contact", "url": "#contact" },
+        { "label": "Articles", "url": "#articles" }
+      ]
     },
     "featureToggles": {
       "useDarkModeAsDefault": true,
