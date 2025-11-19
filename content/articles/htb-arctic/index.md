@@ -16,6 +16,12 @@ keywords:
 
 # Que aprendi de la maquina Arctic
 
+## De MS00-0000 to CVE-0000-0000
+
+Always search CVE's. Once you find the prospect of system vulnerabilities (Windows), try to find the CVE from that Microsoft Vulnerability.
+
+E.g., MS10-059 -> CVE-2010-2554
+
 
 ## Info gatherig con Netcat
 
