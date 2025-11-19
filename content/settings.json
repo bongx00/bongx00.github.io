@@ -19,9 +19,7 @@
     "logo": { "text": "Bong's Blog" },
     "navigation": {
       "header": [
-        { "label": "Blog", "url": "/blog" },
-        { "label": "Contact", "url": "#contact" },
-        { "label": "Articles", "url": "#articles" }
+        { "label": "Blog", "url": "/blog" }
       ],
       "ctaButton": {
         "openNewTab": false,
@@ -29,9 +27,7 @@
         "url": "https://google.com"
       },
       "footer": [
-        { "label": "Blog", "url": "/blog" },
-        { "label": "Contact", "url": "#contact" },
-        { "label": "Articles", "url": "#articles" }
+        { "label": "Blog", "url": "/blog" }
       ]
     },
     "featureToggles": {
