@@ -1,0 +1,1 @@
+import "./src/gatsby-theme-portfolio-minimal/styles/global.css";

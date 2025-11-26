@@ -1,58 +1,34 @@
 {
   "interests": [
     {
-      "label": "Quick and Easy Setup",
+      "label": "eWPT",
+      "url": "https://ine.com/security/certifications/ewpt-certification",
       "image": {
-        "src": "../../images/joystick.png",
+        "src": "../../images/cert.png",
         "alt": ""
       }
     },
     {
-      "label": "Content via Markdown",
+      "label": "eCPPT",
+      "url": "https://ine.com/security/certifications/ecppt-certification",
       "image": {
-        "src": "../../images/notebook.png",
+        "src": "../../images/cert.png",
         "alt": ""
       }
     },
     {
-      "label": "Responsive Design",
+      "label": "ARTA",
+      "url": "https://hacktricks-training.com/courses/arta",
       "image": {
-        "src": "../../images/nail-polish.png",
+        "src": "../../images/cert.png",
         "alt": ""
       }
     },
     {
-      "label": "Medium Integration",
+      "label": "OSCP-student",
+      "url": "https://www.offsec.com/courses/pen-200/",
       "image": {
-        "src": "../../images/medium.png",
-        "alt": ""
-      }
-    },
-    {
-      "label": "Animations",
-      "image": {
-        "src": "../../images/gem-stone.png",
-        "alt": ""
-      }
-    },
-    {
-      "label": "PWA (Offline Support)",
-      "image": {
-        "src": "../../images/mobile-phone.png",
-        "alt": ""
-      }
-    },
-    {
-      "label": "Modern Tech-Stack",
-      "image": {
-        "src": "../../images/gatsby.png",
-        "alt": ""
-      }
-    },
-    {
-      "label": "Blazing Fast",
-      "image": {
-        "src": "../../images/high-voltage.png",
+        "src": "../../images/cert.png",
         "alt": ""
       }
     }
@@ -60,6 +36,6 @@
   "button": {
     "visible": true,
     "label": "+ Load More",
-    "initiallyShownInterests": 5
+    "initiallyShownInterests": 6
   }
 }

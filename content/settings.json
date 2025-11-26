@@ -19,7 +19,10 @@
     "logo": { "text": "Bong's Blog" },
     "navigation": {
       "header": [
-        { "label": "Blog", "url": "/blog" }
+        { "label": "Blog", "url": "/blog" },
+        { "label": "About", "url": "#about" },
+        { "label": "Contact", "url": "#contact" },
+        { "label": "Certifications", "url": "#certs" }
       ],
       "ctaButton": {
         "openNewTab": false,

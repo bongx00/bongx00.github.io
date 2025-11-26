@@ -1,0 +1,17 @@
+div [class*="style-module--ContentWrapper"] {
+  margin-bottom: 0 !important;
+  padding-bottom: 8rem !important;
+}
+
+div [class*="style-module--Interest"] {
+  cursor: pointer !important;
+}
+
+footer {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
+
+footer [class*="style-module--ContentWrapper"] {
+  padding-bottom: 0 !important;
+}
